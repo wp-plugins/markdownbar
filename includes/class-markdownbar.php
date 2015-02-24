@@ -138,7 +138,7 @@ class MarkdownBar {
             var win = window.open('https://help.github.com/articles/markdown-basics/', '_blank');
             win.focus();
         }
-        <?
+        <?php
     }
 
     function link_prompt() {
