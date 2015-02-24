@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: MarkdownBar
- * Version: 0.1
+ * Version: 1.0
  * Plugin URI: http://www.jonheller.com/
  * Description: Adds a toolbar to the post editor with Markdown buttons
  * Author: Jon Heller
