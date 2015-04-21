@@ -2,7 +2,7 @@
 Contributors: crimson090
 Tags: markdown, wysiwyg, formatting
 Requires at least: 3.9
-Tested up to: 4.1.1
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -45,11 +45,11 @@ Installing "MarkdownBar" can be done either by searching for "MarkdownBar" via t
 == Changelog ==
 
 = 1.0 =
-* 2012-12-13
+* 2015-2-28
 * Initial release
 
 == Upgrade Notice ==
 
 = 1.0 =
-* 2012-12-13
+* 2015-2-28
 * Initial release
